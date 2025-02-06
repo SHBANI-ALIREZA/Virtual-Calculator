@@ -5,7 +5,7 @@ setuptools.setup(
     name='VirtualCalculator',
     version='0.0.1',
     description='VirtualCalculator module',
-    url='https://github.com/SHBANI-ALIREZA/Virtual-Calculator/tree/master/main.py',
+    url='https://github.com/SHBANI-ALIREZA/Virtual-Calculator/blob/master/main.py',
     author='SHBANI-ALIREZA',
     author_email='alirezashbani99@gmail.com',
     packages=setuptools.find_packages(),
