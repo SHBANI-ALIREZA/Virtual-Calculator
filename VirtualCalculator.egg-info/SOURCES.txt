@@ -1,0 +1,6 @@
+setup.py
+VirtualCalculator.egg-info/PKG-INFO
+VirtualCalculator.egg-info/SOURCES.txt
+VirtualCalculator.egg-info/dependency_links.txt
+VirtualCalculator.egg-info/requires.txt
+VirtualCalculator.egg-info/top_level.txt
