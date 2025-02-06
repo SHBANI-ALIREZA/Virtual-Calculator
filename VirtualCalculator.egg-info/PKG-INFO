@@ -2,7 +2,7 @@ Metadata-Version: 2.2
 Name: VirtualCalculator
 Version: 0.0.1
 Summary: VirtualCalculator module
-Home-page: https://github.com/SHBANI-ALIREZA/Virtual-Calculator/tree/master/main.py
+Home-page: https://github.com/SHBANI-ALIREZA/Virtual-Calculator/blob/master/VirtualCalculator.py
 Author: SHBANI-ALIREZA
 Author-email: alirezashbani99@gmail.com
 Classifier: Programming Language :: Python :: 3
@@ -10,6 +10,7 @@ Classifier: Operating System :: Os Independent
 Requires-Dist: opencv-python
 Requires-Dist: cvzone
 Requires-Dist: numpy
+Requires-Dist: mediapipe
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier
